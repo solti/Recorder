@@ -1,0 +1,205 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 598}}";
+			sepNavSelRange = "{976, 0}";
+			sepNavVisRange = "{967, 510}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SpeechRecorder */ = {
+		activeExec = 0;
+		executables = (
+			E94D9A4616121888005B8EA7 /* SpeechRecorder */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E94D9A4616121888005B8EA7 /* SpeechRecorder */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SpeechRecorder */;
+		codeSenseManager = E94D9AAB16121889005B8EA7 /* Code sense */;
+		executables = (
+			E94D9A4616121888005B8EA7 /* SpeechRecorder */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 370284680;
+			PBXWorkspaceStateSaveDate = 370284680;
+		};
+		perUserProjectItems = {
+			E94D9AB216121A28005B8EA7 /* PBXTextBookmark */ = E94D9AB216121A28005B8EA7 /* PBXTextBookmark */;
+			E94D9AB416121A28005B8EA7 /* PBXTextBookmark */ = E94D9AB416121A28005B8EA7 /* PBXTextBookmark */;
+			E94D9AB616121A28005B8EA7 /* PBXTextBookmark */ = E94D9AB616121A28005B8EA7 /* PBXTextBookmark */;
+			E94D9AB816121A28005B8EA7 /* PBXTextBookmark */ = E94D9AB816121A28005B8EA7 /* PBXTextBookmark */;
+			E94D9ACB16121AA4005B8EA7 /* PBXTextBookmark */ = E94D9ACB16121AA4005B8EA7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E94D9AAA16121889005B8EA7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E94D9A4616121888005B8EA7 /* SpeechRecorder */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpeechRecorder;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E94D9AAA16121889005B8EA7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E94D9AAB16121889005B8EA7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E94D9AB216121A28005B8EA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E94D9AB316121A28005B8EA7 /* cordova-2.1.0.js */;
+		name = "cordova-2.1.0.js: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 816;
+		vrLoc = 0;
+	};
+	E94D9AB316121A28005B8EA7 /* cordova-2.1.0.js */ = {
+		isa = PBXFileReference;
+		name = "cordova-2.1.0.js";
+		path = "/Users/thomas/workspace/SpeechRecorderIos/www/cordova-2.1.0.js";
+		sourceTree = "<absolute>";
+	};
+	E94D9AB416121A28005B8EA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E94D9AB516121A28005B8EA7 /* spec.html */;
+		name = "spec.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 835;
+		vrLoc = 0;
+	};
+	E94D9AB516121A28005B8EA7 /* spec.html */ = {
+		isa = PBXFileReference;
+		name = spec.html;
+		path = /Users/thomas/workspace/SpeechRecorderIos/www/spec.html;
+		sourceTree = "<absolute>";
+	};
+	E94D9AB616121A28005B8EA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E94D9AB716121A28005B8EA7 /* CDVPluginResult.h */;
+		name = "CDVPluginResult.h: 39";
+		rLen = 0;
+		rLoc = 1269;
+		rType = 0;
+		vrLen = 531;
+		vrLoc = 882;
+	};
+	E94D9AB716121A28005B8EA7 /* CDVPluginResult.h */ = {
+		isa = PBXFileReference;
+		name = CDVPluginResult.h;
+		path = "/Users/thomas/Projekte/speechrecoder/phonegap-phonegap-26d211b/lib/ios/CordovaLib/Classes/CDVPluginResult.h";
+		sourceTree = "<absolute>";
+	};
+	E94D9AB816121A28005B8EA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E94D9AB916121A28005B8EA7 /* index.html */;
+		name = "index.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 835;
+		vrLoc = 0;
+	};
+	E94D9AB916121A28005B8EA7 /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = /Users/thomas/workspace/SpeechRecorderIos/www/index.html;
+		sourceTree = "<absolute>";
+	};
+	E94D9ACB16121AA4005B8EA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E94D9ACC16121AA4005B8EA7 /* index.html */;
+		name = "index.html: 7";
+		rLen = 0;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 651;
+		vrLoc = 1178;
+	};
+	E94D9ACC16121AA4005B8EA7 /* index.html */ = {
+		isa = PBXFileReference;
+		name = index.html;
+		path = /Users/thomas/workspace/SpeechRecorderIos/www/index.html;
+		sourceTree = "<absolute>";
+	};
+}
